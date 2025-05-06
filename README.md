@@ -1,8 +1,8 @@
-# TransChat Beta
+# TalkSeed Beta
 
 ## 📘 簡介
 
-TransChat 是一款結合 **即時翻譯** 與 **AI 對話功能** 的 Python 桌面小工具，目前處於測試階段（Beta）。本工具旨在提供開發者快速測試語言轉換與簡易自然語言理解的能力，採用 Google Translate API 與 Gemini 模型（可選）作為後端服務。
+TalkSeed 是一款結合 **即時翻譯** 與 **AI 對話功能** 的 Python 桌面小工具，目前處於測試階段（Beta）。本工具旨在提供開發者快速測試語言轉換與簡易自然語言理解的能力，採用 Google Translate API 與 Gemini 模型（可選）作為後端服務。
 
 ## ⚙️ 功能介紹
 
