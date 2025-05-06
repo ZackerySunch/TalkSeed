@@ -21,12 +21,12 @@ TransChat 是一款結合 **即時翻譯** 與 **AI 對話功能** 的 Python �
 
 ## 🚀 如何使用
 
-### 3-1. pip 安裝與啟動
+- 3-1. pip 安裝與啟動
 
-請先安裝必要套件：
-pip install PyQt6 keyboard google-generativeai deep-translator SpeechRecognition
+  請先安裝必要套件：
+  pip install PyQt6 keyboard google-generativeai deep-translator SpeechRecognition
 
-### 3-1. API 
-請於程式內 Class AI 的 init 區域填入API
+- 3-1. API 
+  請於程式內 Class AI 的 init 區域填入API
 
 ---- 祝您使用愉快 記得幫我按星星 ---- 
